@@ -1,0 +1,8 @@
+Kristen Frost,9,CAT,26.31,F
+Georgina Watcke,10,CDEV,27.37,F
+Jaclyn Carey,10,ARAC,27.53,F
+Megan Crapster,10,LEHY,27.68,F
+Sergei Frost,9,CAT,26.31,M
+Andrew Watcke,10,CDEV,27.37,M
+Josh Carey,10,ARAC,27.53,M
+Sergio Crapster,10,LEHY,27.68,M
